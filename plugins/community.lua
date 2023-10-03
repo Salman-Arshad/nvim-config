@@ -9,4 +9,9 @@ return {
    { import = "astrocommunity.utility.nvim-toggler" },
    { import = "astrocommunity.editing-support.chatgpt-nvim" },
    { import = "astrocommunity.pack.typescript-all-in-one" },
+   { import = "astrocommunity.editing-support.auto-save-nvim" },
+   { import = "astrocommunity.startup.fsplash-nvim" },
+
+
+
 }
